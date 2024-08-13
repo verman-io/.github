@@ -1,7 +1,7 @@
 verman.io
 =========
 
-Versions managers to make Docker redundant?
+Docker killer. CI/CD—incl. server—on your phone.
 
 
 ## Deploy at any scale
